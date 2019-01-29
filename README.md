@@ -1,1 +1,2 @@
-# test1
+# Probot ✨
+Epic Discord Bot
